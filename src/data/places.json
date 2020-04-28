@@ -1,0 +1,354 @@
+[
+    {
+        "name": "ホテル松尾",
+        "info": "お弁当、オードブル",
+        "address": "浜田市黒川町4185",
+        "tel": "0855-22-2520",
+        "location": {
+            "latitude": 34.901548,
+            "longitude": 132.089600
+        },
+        "url": "http://www2.crosstalk.or.jp/matsuo/"
+    },
+    {
+        "name": "お魚のなかだ",
+        "info": "海鮮丼、天丼　他",
+        "address": "浜田市国分町1981-186",
+        "tel": "0855-25-5065",
+        "location": {
+            "latitude": 34.938687,
+            "longitude": 132.110935
+        },
+        "url": "http://osakananonakada.com/"
+    },
+    {
+        "name": "Dining　Bar　Vital",
+        "info": "お弁当 など",
+        "address": "浜田市黒川町4204",
+        "tel": "0855-23-8021",
+        "location": {
+            "latitude": 34.900866,
+            "longitude": 132.089599
+        },
+        "url": "http://www.kankou-hamada.org/modules/guide/index.php?action=SpotView&spot_id=1174"
+    },
+    {
+        "name": "ベジカフェまんてん",
+        "info": "ピザ",
+        "address": "浜田市旭町丸原1529-11",
+        "tel": "0855-45-8039",
+        "location": {
+            "latitude": 34.870822,
+            "longitude": 132.258606
+        },
+        "url": "http://www.kankou-hamada.org/modules/guide/index.php?action=SpotView&spot_id=1193"
+    },
+    {
+        "name": "海鮮焼き浜心",
+        "info": "魚料理全般",
+        "address": "浜田市殿町83-124",
+        "tel": "0855-25-1211",
+        "location": {
+            "latitude": 34.899685,
+            "longitude": 132.076827
+        },
+        "url": "http://www.kankou-hamada.org/modules/guide/index.php?action=SpotView&spot_id=1358"
+    },
+    {
+        "name": "フレンチレストランはなそうし",
+        "info": "洋食全般",
+        "address": "浜田市黒川町4232-4",
+        "tel": "0855-23-8704",
+        "location": {
+            "latitude": 34.900061,
+            "longitude": 132.088466
+        },
+        "url": "https://localplace.jp/sp/t200411617/"
+    },
+    {
+        "name": "すしとうなぎの店山源",
+        "info": "お寿司、うなぎ など",
+        "address": "浜田市錦町7-5",
+        "tel": "0855-22-0321",
+        "location": {
+            "latitude": 34.897554,
+            "longitude": 132.077721
+        },
+        "url": "http://www2.crosstalk.or.jp/kid/nyamagen/index.html"
+    },
+    {
+        "name": "ナマステ・カレー",
+        "info": "カレー・ナン",
+        "address": "浜田市田町1664",
+        "tel": "080-4084-2685",
+        "location": {
+            "latitude": 34.901055,
+            "longitude": 132.083744
+        },
+        "url": "http://www.kankou-hamada.org/modules/guide/index.php?action=SpotView&spot_id=1324"
+    },
+    {
+        "name": "美豚",
+        "info": "お弁当",
+        "address": "浜田市黒川町4186",
+        "tel": "080-1912-5690",
+        "location": {
+            "latitude": 34.901608,
+            "longitude": 132.089734
+        },
+        "url": "https://tabelog.com/shimane/A3203/A320301/32005485/"
+    },
+    {
+        "name": "楓ジェラート",
+        "info": "ジェラート",
+        "address": "浜田市三隅町向野田721-7",
+        "tel": "0855-32-5200",
+        "location": {
+            "latitude": 34.776241,
+            "longitude": 131.953010
+        },
+        "url": "http://www.kaede-j.com/"
+    },
+    {
+        "name": "ラーメンまめまめ食堂",
+        "info": "お弁当　他",
+        "address": "浜田市黒川町124-1",
+        "tel": "0855-28-7729",
+        "location": {
+            "latitude": 34.899810,
+            "longitude": 132.092433
+        },
+        "url": "https://www.facebook.com/pages/category/Diner/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E3%81%BE%E3%82%81%E3%83%9E%E3%83%A1%E9%A3%9F%E5%A0%82-102196824622635/"
+    },
+    {
+        "name": "ようき屋",
+        "info": "お好み焼き",
+        "address": "浜田市黒川町108-61",
+        "tel": "0855-25-5775",
+        "location": {
+            "latitude": 34.903427,
+            "longitude": 132.092612
+        },
+        "url": "https://tabelog.com/shimane/A3203/A320301/32004646/"
+    },
+    {
+        "name": "Cafe Ballon d'Or",
+        "info": "ピザ、パスタなど",
+        "address": "浜田市新町57-3",
+        "tel": "0855-28-7526",
+        "location": {
+            "latitude": 34.897138,
+            "longitude": 132.078789
+        },
+        "url": "https://www.cafe-ballon-dor.com/"
+    },
+    {
+        "name": "風林火山",
+        "info": "お好み焼き 鉄板焼",
+        "address": "浜田市牛市町77",
+        "tel": "0855-22-3888",
+        "location": {
+            "latitude": 34.899093,
+            "longitude": 132.083286
+        },
+        "url": "http://www.kankou-hamada.org/modules/guide/index.php?action=SpotView&spot_id=1350"
+    },
+    {
+        "name": "やきとり　紘",
+        "info": "焼き鳥 など",
+        "address": "浜田市朝日町1506",
+        "tel": "0855-22-7629",
+        "location": {
+            "latitude": 34.8981,
+            "longitude": 132.087337
+        },
+        "url": "http://www.kankou-hamada.org/modules/guide/index.php?action=SpotView&spot_id=1340"
+    },
+    {
+        "name": "まみーずてーぶる",
+        "info": "お惣菜（量り売り）",
+        "address": "浜田市田町772-4",
+        "tel": "0855-23-7600",
+        "location": {
+            "latitude": 34.901868,
+            "longitude": 132.086138
+        },
+        "url": "http://www.hamayori.jp/modules/shop/index.php?action=MainView&shop_id=1223"
+    },
+    {
+        "name": "杏",
+        "info": "中華全般",
+        "address": "浜田市相生町3898",
+        "tel": "0855-28-7709",
+        "location": {
+            "latitude": 34.896706,
+            "longitude": 132.094748
+        },
+        "url": "http://www.kankou-hamada.org/modules/guide/index.php?action=SpotView&spot_id=1331"
+    },
+    {
+        "name": "すし蔵お持ち帰り＆宅配専門店",
+        "info": "お寿司",
+        "address": "浜田市朝日町109-2",
+        "tel": "0855-23-0358",
+        "location": {
+            "latitude": 34.89812,
+            "longitude": 132.090405
+        },
+        "url": "http://www.sushizou.com/pc/takeout_hamada.html"
+    },
+    {
+        "name": "清香苑",
+        "info": "お弁当 焼き肉など",
+        "address": "浜田市黒川町4192",
+        "tel": "0855-22-1202",
+        "location": {
+            "latitude": 34.901194,
+            "longitude": 132.090177
+        },
+        "url": "http://www2.crosstalk.or.jp/seiko/info/index.html"
+    },
+    {
+        "name": "味泉",
+        "info": "カレー、ステーキ",
+        "address": "浜田市朝日町1547",
+        "tel": "0855-23-5033",
+        "location": {
+            "latitude": 34.897617,
+            "longitude": 132.084769
+        },
+        "url": "https://tabelog.com/shimane/A3203/A320301/32000222/"
+    },
+    {
+        "name": "植本家支店",
+        "info": "居酒屋メニュー全般",
+        "address": "浜田市栄町11-1",
+        "tel": "0855-23-2972",
+        "location": {
+            "latitude": 34.896658,
+            "longitude": 132.075829
+        },
+        "url": "http://uemotoya.com/"
+    },
+    {
+        "name": "金城観光ホテル",
+        "info": "お弁当",
+        "address": "浜田市金城町追原39-1",
+        "tel": "0855-42-1000",
+        "location": {
+            "latitude": 34.892353,
+            "longitude": 132.236443
+        },
+        "url": "http://www.kankou-hamada.org/modules/guide/index.php?action=SpotView&spot_id=1021"
+    },
+    {
+        "name": "いなばや",
+        "info": "お弁当 カレーなど",
+        "address": "浜田市黒川町909",
+        "tel": "080-3879-2876",
+        "location": {
+            "latitude": 34.899328,
+            "longitude": 132.092158
+        },
+        "url": "http://www.hamayori.jp/modules/shop/index.php?action=MainView&shop_id=1388"
+    },
+    {
+        "name": "石州　まる姫食堂",
+        "info": "お弁当",
+        "address": "浜田市原井町2795-1",
+        "tel": "0855-22-8101",
+        "location": {
+            "latitude": 34.889843,
+            "longitude": 132.065589
+        },
+        "url": "https://www.all-iwami.com/gourmet/detail_1875.html"
+    },
+    {
+        "name": "玉鮨",
+        "info": "お寿司 お料理全般",
+        "address": "浜田市黒川町4210",
+        "tel": "0855-23-2676",
+        "location": {
+            "latitude": 34.900662,
+            "longitude": 132.089733
+        },
+        "url": "http://www.kankou-hamada.org/modules/guide/index.php?action=SpotView&spot_id=1099"
+    },
+    {
+        "name": "串焼き　照さん",
+        "info": "串焼きなど",
+        "address": "浜田市治和町ロ1143-1",
+        "tel": "0855-27-0880",
+        "location": {
+            "latitude": 34.857729,
+            "longitude": 132.018696
+        },
+        "url": "https://tabelog.com/shimane/A3203/A320301/32004221/"
+    },
+    {
+        "name": "むさし乃",
+        "info": "お寿司、うなぎなど",
+        "address": "浜田市錦町22-1",
+        "tel": "0855-22-0368",
+        "location": {
+            "latitude": 34.897719,
+            "longitude": 132.07658
+        },
+        "url": "https://tabelog.com/shimane/A3203/A320301/32004481/"
+    },
+    {
+        "name": "お肉のコーヒン商会",
+        "info": "BBQセット他",
+        "address": "浜田市下府町388-45",
+        "tel": "0855-28-3000",
+        "location": {
+            "latitude": 34.922438,
+            "longitude": 132.116272
+        },
+        "url": "http://ko-hin.jp/"
+    },
+    {
+        "name": "県立大学カフェテリア",
+        "info": "お弁当、丼ぶり他",
+        "address": "浜田市野原町2433-2",
+        "tel": "0855-23-1248",
+        "location": {
+            "latitude": 34.884532,
+            "longitude": 132.076173
+        },
+        "url": "https://tabelog.com/shimane/A3203/A320301/32004598/"
+    },
+    {
+        "name": "昭和処いっぱい一杯",
+        "info": "モツ鍋、揚げパン",
+        "address": "浜田市新町15-2",
+        "tel": "0855-25-5118",
+        "location": {
+            "latitude": 34.897466,
+            "longitude": 132.078216
+        },
+        "url": "https://tabelog.com/shimane/A3203/A320301/32004026/"
+    },
+    {
+        "name": "Loco",
+        "info": "オムライス、パスタなど",
+        "address": "浜田市紺屋町66-1",
+        "tel": "0855-25-5278",
+        "location": {
+            "latitude": 34.897876,
+            "longitude": 132.081239
+        },
+        "url": "http://www.kankou-hamada.org/modules/guide/index.php?action=SpotView&spot_id=1333"
+    },
+    {
+        "name": "ビックマウス浜田店",
+        "info": "ピザなど",
+        "address": "浜田市竹迫町2881",
+        "tel": "0855-22-2822",
+        "location": {
+            "latitude": 34.89789,
+            "longitude": 132.087899
+        },
+        "url": "https://bigmouth-hamada.shopinfo.jp/"
+    }
+]
