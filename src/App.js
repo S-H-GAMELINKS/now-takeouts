@@ -11,6 +11,7 @@ import Container from 'react-bootstrap/Container'
 // import component's
 import Header from './components/Header.jsx';
 import About from './components/About.jsx';
+import Search from './components/Search.jsx';
 
 class App extends React.Component {
   render() {
@@ -18,6 +19,7 @@ class App extends React.Component {
       <div className="app">
         <Header />
         <About />
+        <Search />
       </div>
     )
   }
