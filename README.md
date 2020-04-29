@@ -9,3 +9,6 @@ PWAとしてスマホにインストールすることもでき、半径一キ�
 
 MIT
 
+## ミラー
+
+[S-H-GAMELINKS/now-takeouts](https://github.com/S-H-GAMELINKS/now-takeouts)
