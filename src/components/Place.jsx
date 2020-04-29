@@ -23,7 +23,7 @@ class Place extends React.Component {
                             TEL:{this.props.info.tel}
                         </p>
                     </Card.Text>
-                    <a href="{this.props.info.url}" className="btn btn-outline-success" variant="primary" >Webサイトをみる</a>
+                    <a href={this.props.info.url} className="btn btn-outline-success" variant="primary" >Webサイトをみる</a>
                 </Card.Body>
             </Card>
         );
