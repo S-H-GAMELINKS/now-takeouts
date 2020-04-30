@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d36a128a94bb1b6c49d29e5b3a6dc78",
+    "revision": "6dd20c64fde08f7dad6434a3e71f70aa",
     "url": "/now-takeouts/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/now-takeouts/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "9b8775e6f1dcac200a89",
+    "revision": "b6f3887c00add93d92b6",
     "url": "/now-takeouts/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/now-takeouts/static/js/2.d15bdafd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9b8775e6f1dcac200a89",
-    "url": "/now-takeouts/static/js/main.69cc4be7.chunk.js"
+    "revision": "b6f3887c00add93d92b6",
+    "url": "/now-takeouts/static/js/main.ae988c60.chunk.js"
   },
   {
     "revision": "968cc94951dd5a7b31b4",
