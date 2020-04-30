@@ -9,6 +9,9 @@ class About extends React.Component {
                 <p>
                     あなたの現在位置を使い、周辺一キロ以内のテイクアウト対応店舗を一覧で表示してくれるアプリです。
                 </p>
+                <p>
+                    またアクセス解析にGoogle Analyticsを使用しています。
+                </p>
             </Jumbotron>
         );
     }
