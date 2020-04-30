@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/now-takeouts/static/css/main.5f361e03.chunk.css",
-    "main.js": "/now-takeouts/static/js/main.ae988c60.chunk.js",
-    "main.js.map": "/now-takeouts/static/js/main.ae988c60.chunk.js.map",
+    "main.js": "/now-takeouts/static/js/main.b6f2f2f8.chunk.js",
+    "main.js.map": "/now-takeouts/static/js/main.b6f2f2f8.chunk.js.map",
     "runtime-main.js": "/now-takeouts/static/js/runtime-main.ee2a805b.js",
     "runtime-main.js.map": "/now-takeouts/static/js/runtime-main.ee2a805b.js.map",
     "static/css/2.de424728.chunk.css": "/now-takeouts/static/css/2.de424728.chunk.css",
     "static/js/2.d15bdafd.chunk.js": "/now-takeouts/static/js/2.d15bdafd.chunk.js",
     "static/js/2.d15bdafd.chunk.js.map": "/now-takeouts/static/js/2.d15bdafd.chunk.js.map",
     "index.html": "/now-takeouts/index.html",
-    "precache-manifest.1b1fbbf522f816c88fce387c2c6c391e.js": "/now-takeouts/precache-manifest.1b1fbbf522f816c88fce387c2c6c391e.js",
+    "precache-manifest.f3d4593438452f3a3148012ea4e255a1.js": "/now-takeouts/precache-manifest.f3d4593438452f3a3148012ea4e255a1.js",
     "service-worker.js": "/now-takeouts/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/now-takeouts/static/css/2.de424728.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/now-takeouts/static/css/main.5f361e03.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.d15bdafd.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ae988c60.chunk.js"
+    "static/js/main.b6f2f2f8.chunk.js"
   ]
 }

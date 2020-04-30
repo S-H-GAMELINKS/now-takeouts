@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/now-takeouts/precache-manifest.1b1fbbf522f816c88fce387c2c6c391e.js"
+  "/now-takeouts/precache-manifest.f3d4593438452f3a3148012ea4e255a1.js"
 );
 
 self.addEventListener('message', (event) => {
