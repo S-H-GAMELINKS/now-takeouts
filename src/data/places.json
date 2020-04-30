@@ -350,5 +350,175 @@
             "longitude": 132.087899
         },
         "url": "https://bigmouth-hamada.shopinfo.jp/"
+    },
+    {
+        "name": "割烹　十久利",
+        "info": "お弁当、オードブル",
+        "address": "島根県浜田市栄町43",
+        "location": {
+            "latitude": 34.8965256,
+            "longitude": 132.0767917
+        },
+        "url": ""
+    },
+    {
+        "name": "寿しかつ",
+        "info": "寿司",
+        "address": "島根県浜田市片庭町35",
+        "location": {
+            "latitude": 34.8980327,
+            "longitude": 132.0743875
+        },
+        "url": "http://hamagochi.com/shop/sushikatsu/"
+    },
+    {
+        "name": "ゆ～くんとこ　駅北店",
+        "info": "ラーメン",
+        "address": "島根県浜田市浅井町864-1",
+        "location": {
+            "latitude": 34.903443,
+            "longitude": 132.0866282
+        },
+        "url": ""
+    },
+    {
+        "name": "ダイニングバーQ",
+        "info": "",
+        "address": "島根県浜田市浅井町102-21",
+        "location": {
+            "latitude": 34.9028558,
+            "longitude": 132.0918072
+        },
+        "url": ""
+    },
+    {
+        "name": "食事処宮川",
+        "info": "",
+        "address": "島根県浜田市杉戸町2595",
+        "location": {
+            "latitude": 34.8976218,
+            "longitude": 132.0834848
+        },
+        "url": ""
+    },
+    {
+        "name": "Fathers my first hero",
+        "info": "",
+        "address": "島根県浜田市殿町123-4",
+        "location": {
+            "latitude": 34.9000652,
+            "longitude": 132.0766832
+        },
+        "url": ""
+    },
+    {
+        "name": "居酒屋粋庵",
+        "info": "",
+        "address": "島根県浜田市浅井町789-1",
+        "tel": "855-22-0365",
+        "location": {
+            "latitude": 34.902442,
+            "longitude": 132.090124
+        },
+        "url": ""
+    },
+    {
+        "name": "からあげラボ はじめ浜田店",
+        "info": "唐揚げ",
+        "address": "島根県浜田市紺屋町71-1",
+        "tel": "",
+        "location": {
+            "latitude": 34.898206,
+            "longitude": 132.081912
+        },
+        "url": ""
+    },
+    {
+        "name": "ケンボロー",
+        "info": "肉料理",
+        "address": "島根県浜田市黒川町4191",
+        "tel": "0855-24-9909",
+        "location": {
+            "latitude": 34.901275,
+            "longitude": 132.090105
+        },
+        "url": ""
+    },
+    {
+        "name": "どさん子ラーメン 浜田店",
+        "info": "ラーメン",
+        "address": "島根県浜田市治和町イ86-3",
+        "tel": "0855-27-2628",
+        "location": {
+            "latitude": 34.858486,
+            "longitude": 132.019728
+        },
+        "url": ""
+    },
+    {
+        "name": "カフェダイニング 珈琲時間",
+        "info": "",
+        "address": "島根県浜田市熱田町125-62",
+        "tel": "0855-27-3644",
+        "location": {
+            "latitude": 34.878545,
+            "longitude": 132.061443
+        },
+        "url": ""
+    },
+    {
+        "name": "おいでや",
+        "info": "",
+        "address": "島根県浜田市浅井町56-16",
+        "tel": "0855-22-7017",
+        "location": {
+            "latitude": 34.90199,
+            "longitude": 132.088432
+        },
+        "url": ""
+    },
+    {
+        "name": "らーめん 善",
+        "info": "ラーメン",
+        "address": "島根県浜田市下有福町399-1",
+        "tel": "0855-28-1662",
+        "location": {
+            "latitude": 34.945431,
+            "longitude": 132.182742
+        },
+        "url": ""
+    },
+    {
+        "name": "ラムズバー",
+        "info": "",
+        "address": "0855-22-9620",
+        "tel": "島根県浜田市浅井町86-30",
+        "location": {
+            "latitude": 34.902466,
+            "longitude": 132.090603
+        },
+        "url": ""
+    },
+    {
+        "name": "キッチン オーブッシュ",
+        "info": "",
+        "address": "島根県浜田市浅井町56-6",
+        "tel": "0855-23-8158",
+        "location": {
+            "latitude": 34.902117,
+            "longitude": 132.088324
+        },
+        "url": ""
+    },
+    {
+        "name": "自然派キッチンつくし",
+        "info": "",
+        "address": "島根県浜田市三隅町古市場1006-2",
+        "tel": "0855-28-7371",
+        "location": {
+            "latitude": 34.785624,
+            "longitude": 131.937507
+        },
+        "url": ""
     }
 ]
