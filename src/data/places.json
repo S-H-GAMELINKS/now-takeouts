@@ -520,5 +520,49 @@
             "longitude": 131.937507
         },
         "url": ""
+    },
+    {
+        "name": "たこ初食堂",
+        "info": "洋食、中華",
+        "address": "島根県浜田市片庭町56",
+        "tel": "0855-22-0003",
+        "location": {
+            "latitude": 34.897219,
+            "longitude": 132.075878
+        },
+        "url": "https://tabelog.com/shimane/A3203/A320301/32000045/"
+    },
+    {
+        "name": "surfer's kitchen TERA",
+        "info": "おつまみセットなど",
+        "address": "島根県浜田市国分町2205-33",
+        "tel": "0855-28-7974",
+        "location": {
+            "latitude": 34.938646,
+            "longitude": 132.110208
+        },
+        "url": "https://peraichi.com/landing_pages/view/surferskitchentera"
+    },
+    {
+        "name": "居酒屋さくら",
+        "info": "焼き鳥など",
+        "address": "島根県浜田市旭町丸原76-1",
+        "tel": "0855-45-1781",
+        "location": {
+            "latitude": 34.867131,
+            "longitude": 132.256126
+        },
+        "url": "https://www.izakaya-sakura.com/"
+    },
+    {
+        "name": "パンとカフェ プチマタン",
+        "info": "パンなど",
+        "address": "島根県浜田市金城町下来原1546",
+        "tel": "0855-42-2820",
+        "location": {
+            "latitude": 34.863395,
+            "longitude": 132.162572
+        },
+        "url": "http://www.kankou-hamada.org/modules/guide/index.php?action=SpotView&spot_id=1310"
     }
 ]
