@@ -1,6 +1,6 @@
 import React from 'react';
 import { isPointWithinRadius } from 'geolib';
-import { Row, Col, Container, Button, Card } from 'react-bootstrap';
+import { Row, Col, Container, Button } from 'react-bootstrap';
 
 // import Place component
 import Place from './Place.jsx';
@@ -22,7 +22,6 @@ class Search extends React.Component {
 
     checkDistance(location, data) {
         let result = isPointWithinRadius(location, data, 1000);
-        console.log(result);
         return result;
     }
 
@@ -46,10 +45,12 @@ class Search extends React.Component {
                         result = this.checkDistance(this.state, { latitude: data.location.latitude, longitude: data.location.longitude });
                         if (result) {
                             return (
-                                <Col sm={12} md={4} lg={4} className="mt-2">
+                                <Col sm={12} md={4} lg={4} className="mt-2" key={i}>
                                     <Place info={data} />
                                 </Col>
                             );
+                        } else {
+                            return null;
                         }
                     })}
                 </Row>
