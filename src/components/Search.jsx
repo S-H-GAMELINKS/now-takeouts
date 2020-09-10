@@ -28,7 +28,8 @@ class Search extends React.Component {
 
     getCurrentLocation() {
         window.navigator.geolocation.getCurrentPosition(
-            success => this.setState({ latitude: success.coords.latitude, longitude: success.coords.longitude, locationable: true })
+            success => this.setState({ latitude: success.coords.latitude, longitude: success.coords.longitude, locationable: true }),
+            error => alert("位置情報が許可されていません!\n位置情報を許可してから「店舗を探す」をクリックしてください!")
         );
     }
 
