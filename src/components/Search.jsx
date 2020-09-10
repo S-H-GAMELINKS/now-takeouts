@@ -18,6 +18,7 @@ class Search extends React.Component {
             places: places
         }
         this.checkDistance = this.checkDistance.bind(this);
+        this.handleClick = this.handleClick.bind(this);
     }
 
     checkDistance(location, data) {
@@ -25,10 +26,20 @@ class Search extends React.Component {
         return result;
     }
 
-    componentDidMount() {
+    getCurrentLocation() {
         window.navigator.geolocation.getCurrentPosition(
-            success => this.setState({ latitude: success.coords.latitude, longitude: success.coords.longitude })
+            success => this.setState({ latitude: success.coords.latitude, longitude: success.coords.longitude, locationable: true })
         );
+    }
+
+    componentDidMount() {
+        this.getCurrentLocation()
+    }
+
+    handleClick() {
+        this.getCurrentLocation()
+        this.checkDistance.bind(this)
+        console.log(this.state)
     }
 
     render() {
@@ -38,6 +49,9 @@ class Search extends React.Component {
         return (
             <Container>
                 <div className="d-flex justify-content-center">
+                    <Button variant="success" onClick={this.handleClick}>店舗を探す</Button>
+                </div>
+                <div className="d-flex justify-content-center mt-5">
                     <Button variant="primary">最寄りのお店一覧</Button>
                 </div>
                 <Row className="mt-5">
