@@ -10,11 +10,14 @@
     "bootstrap": "^4.4.1",
     "geolib": "^3.2.1",
     "gh-pages": "^2.2.0",
+    "http-proxy": "^1.18.1",
     "json-loader": "^0.5.7",
+    "lodash": "^4.17.20",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "serialize-javascript": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
