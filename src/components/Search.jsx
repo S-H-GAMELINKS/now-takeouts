@@ -1,6 +1,6 @@
 import React from 'react';
 import { isPointWithinRadius } from 'geolib';
-import { Row, Col, Container, Button } from 'react-bootstrap';
+import { Row, Col, Container, Button, Form } from 'react-bootstrap';
 
 // import Place component
 import Place from './Place.jsx';
@@ -15,14 +15,16 @@ class Search extends React.Component {
         this.state = {
             latitude: 0,
             longitude: 0,
-            places: places
+            places: places,
+            distance: 1
         }
         this.checkDistance = this.checkDistance.bind(this);
         this.handleClick = this.handleClick.bind(this);
+        this.handleChange = this.handleChange.bind(this);
     }
 
     checkDistance(location, data) {
-        let result = isPointWithinRadius(location, data, 1000);
+        let result = isPointWithinRadius(location, data, this.state.distance * 1000);
         return result;
     }
 
@@ -43,12 +45,32 @@ class Search extends React.Component {
         console.log(this.state)
     }
 
+    handleChange(event) {
+        this.setState({ distance: event.target.value });
+    }
+
     render() {
         let placeData = this.state.places;
         let result = false;
 
         return (
             <Container>
+                <div className="d-flex justify-content-center">
+                    <Form.Group>
+                        <Form.Control as="select" value={this.state.distance} onChange={this.handleChange} >
+                            <option value='1'>周辺半径1km</option>
+                            <option value='2'>周辺半径2km</option>
+                            <option value='3'>周辺半径3km</option>
+                            <option value='4'>周辺半径4km</option>
+                            <option value='5'>周辺半径5km</option>
+                            <option value='6'>周辺半径6km</option>
+                            <option value='7'>周辺半径7km</option>
+                            <option value='8'>周辺半径8km</option>
+                            <option value='9'>周辺半径9km</option>
+                            <option value='10'>周辺半径10km</option>
+                        </Form.Control>
+                    </Form.Group>
+                </div>
                 <div className="d-flex justify-content-center">
                     <Button variant="success" onClick={this.handleClick}>店舗を探す</Button>
                 </div>
